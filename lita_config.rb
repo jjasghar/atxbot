@@ -1,7 +1,7 @@
 Lita.configure do |config|
   config.robot.log_level = :info
   config.robot.adapter = :slack
-  #config.robot.admins = ["U012A3BCD"]
+  config.robot.admins = ["U049CGUR6"]
   config.adapters.slack.token = "xoxb-5020512447-lWmfztzOSrbKw3ZfkfTVxuHx"
   config.handlers.google.safe_search = :off
 
