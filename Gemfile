@@ -14,6 +14,7 @@ gem "lita-google-images"
 gem "lita-karma"
 gem "lita-ping" , :git => "https://github.com/jjasghar/lita-ping.git", :branch => 'updates'
 gem "lita-motivate"
+gem "lita-nope-badger"
 gem "lita-retro"
 gem "lita-wikipedia"
 gem "lita-wtf"

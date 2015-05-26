@@ -49,6 +49,8 @@ GEM
       lita (>= 4.0)
     lita-motivate (0.2.1)
       lita (>= 4.2)
+    lita-nope-badger (0.1.0)
+      lita (>= 4.3)
     lita-retro (1.0.0)
       lita (>= 4.0)
     lita-slack (1.4.0)
@@ -101,6 +103,7 @@ DEPENDENCIES
   lita-group-mention
   lita-karma
   lita-motivate
+  lita-nope-badger
   lita-ping!
   lita-retro
   lita-slack
